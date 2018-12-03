@@ -1,0 +1,10 @@
+*.pyc
+*.egg-info
+*.gz
+# temporary files created by VIM
+# temporary files created by git/patch
+.idea
+.DS_Store
+deploy.yaml
+req.txt
+config/prod/*
